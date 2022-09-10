@@ -1,6 +1,6 @@
 # hello-world
 ## Quick start with GitHub
 
-**First : Create New Repository**
-**Second : Create Branch**
-**Third Making and committing changes**
+1.**First : Create New Repository**
+2.**Second : Create Branch**
+3.**Third Making and committing changes**
